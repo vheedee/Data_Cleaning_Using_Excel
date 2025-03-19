@@ -8,6 +8,16 @@ The primary dataset used for this project is the "DataCleaningExcelTutorial.xlsx
 
 ### Tools 
 - Excel - Data Cleaning [Download Here](https://microsoft.com)
-- 
+
+### Data Cleaning/Preparation 
+
+In the data preparation Phase, I performed the following tasks:
+1. Data Importing.
+2. Handling missing values.
+3. removed empty spaces.
+4. Data cleaning and formatting.
+
+### Reference 
+- Data Cleaning in Excel by -AlexTheAnalyst 
 
   
