@@ -1,5 +1,10 @@
 ## POLITICAL ANALYSIS
 
+## Table of Contents 
+- [Project Overview](#Project-overview)
+- [Data Sources](#Data-Sources)
+- 
+
 ### Project Overview 
 This data analysis project aims to provide insights of the U.S. Presidents and their political party affiliation. 
 
