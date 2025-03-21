@@ -8,10 +8,10 @@
 - [Reference](Reference)
 
 ### Project Overview 
-This data analysis project aims to provide insights of the U.S. Presidents and their political party affiliation. 
+This data analysis project aims to provide insights of the past U.S. Presidents and their political party affiliation. 
 
 ### Data Sources
-The primary dataset used for this project is the "DataCleaningExcelTutorial.xlsx", containing detailed information about each President. 
+The primary dataset used for this project is the "DataCleaningExcelTutorial.xlsx", containing detailed information about each Past President. 
 
 ### Tools 
 - Excel - Data Cleaning [Download Here](https://microsoft.com)
